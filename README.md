@@ -4,3 +4,5 @@ With an end goal to paint a more complete picture, we chose to show the imaginat
 
 1. Identify individuals that go through a security-like camera. 
 2. Distinguish face mask usage.
+
+I have implemented Transfer Learning using MobileNetV2 architecture followed by Flatten layer and fully connected Dense layer with relu activation and the last dense layer has 2 nodes to predict wether the mask is on or off with softmax activation 
